@@ -1,0 +1,7 @@
+Aplikasi ini dibuat oleh: Kelompok 5
+
+Ketua : Farhan Yudhi Fatah (Project Manager, Programmer, Designer, Database);
+Anggota : - Rofi (Designer);
+	  - Amelia Chintya (Database);
+	  - Rifda nursofa (Database);
+	  - Muhammad Yusuf Saepudin (Input data)
